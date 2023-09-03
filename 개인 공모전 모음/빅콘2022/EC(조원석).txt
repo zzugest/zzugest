@@ -1,0 +1,4 @@
+03_matrixer/matrixer.jl 실행
+03_matrixer/h=0.01 gaussain.ipynb 실행
+공지시가 만드는 코드 실행
+03_matrixer/gaussain simulation.ipynb 실행
